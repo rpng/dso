@@ -3,7 +3,7 @@
 
 ## Changes in this repository
 
-* Created FullSystem/CoarseInitializerStereo for stereo initializationi - note that we stick with block matching since it is fast and the quality of the inverse depth will not affect dso horribly, since it solves for it
+* Created FullSystem/CoarseInitializerStereo for stereo initialization - note that we stick with block matching since it is fast and the quality of the inverse depth will not affect dso horribly, since it solves for it
 * Altered util/ImageAndExposure to carry two images and baseline
 * Altered util/DatasetReader to read kiti stereo data
 
