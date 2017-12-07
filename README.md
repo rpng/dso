@@ -57,7 +57,7 @@ $ source devel/setup.bash # or setup.zsh if you use zsh
 * Run dso!
 ```
 $ cd /path/to/dso/launch
-$ roslaunch kitti_generel.launch
+$ roslaunch kitti_general.launch
 ```
 
 
